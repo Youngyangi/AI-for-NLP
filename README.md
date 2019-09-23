@@ -1,3 +1,3 @@
 # AI-for-NLP
-Just started to learn AI
-In the NLP direction
+Just started to learn AI\n
+Some basic models and codes in the NLP direction.
